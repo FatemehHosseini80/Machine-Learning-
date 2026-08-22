@@ -20,7 +20,7 @@ The project is divided into two main parts:
 
 ## 📂 Files Included
 
-- `main.ipynb`: The core Jupyter Notebook containing the code, formulas, and visualizations.
+- `Linear_Regression.ipynb`: The core Jupyter Notebook containing the code, formulas, and visualizations.
 - `dataset1.csv`: Dataset used for single-variable linear regression.
 - `train.csv` & `test.csv`: Medical insurance datasets used for multiple-variable linear regression EDA.
 
