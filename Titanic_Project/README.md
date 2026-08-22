@@ -24,7 +24,7 @@ The dataset contains information on 891 Titanic passengers. Key features analyze
 ## 🚀 Technical Stack
 * **Language:** Python
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-* **Environment:** Jupyter Notebook
+
 
 ## 📈 Key Findings
 1. **Gender:** Females had a significantly higher chance of survival compared to males.
